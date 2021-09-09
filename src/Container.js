@@ -9,7 +9,7 @@ const Container = () => {
     <div>
       <Carousel>
         <Carousel.Item>
-          <img className="d-block w-100 " src={image1} alt="First slide" />
+          <img className="d-block w-100 ehdsgfhs" src={image1} alt="First slide" />
         </Carousel.Item>
         <Carousel.Item>
           <img className="d-block w-100 " src={image2} alt="Second slide" />
